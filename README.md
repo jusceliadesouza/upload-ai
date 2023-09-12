@@ -22,7 +22,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## ☕ Usando upload.ai
 
-Para usar upload.ai, siga estas etapas:
+Para usar **upload.ai**, siga estas etapas:
 
 1. Clone o projeto na sua máquina. `git clone https://github.com/jusceliadesouza/upload-ai.git`
 2. No terminal, utilize o comando `cd..` para voltar à raiz do projeto e redirecione para a pasta `web`
@@ -33,3 +33,5 @@ Para usar upload.ai, siga estas etapas:
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+[⬆️ Voltar ao topo](#upload-ai)
