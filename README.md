@@ -24,9 +24,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Para usar upload.ai, siga estas etapas:
 
-1. Instale as dependências utilizando `pnpm install`
-2. Execute o projeto com `pnpm run dev`
-3. Abra o endereço `http://localhost:5173/` no seu navegador favorito
+1. Clone o projeto na sua máquina. `git clone https://github.com/jusceliadesouza/upload-ai.git`
+2. No terminal, utilize o comando `cd..` para voltar à raiz do projeto e redirecione para a pasta `web`
+3. Instale as dependências utilizando `pnpm install`
+4. Execute o projeto com `pnpm run dev`
+5. Abra o endereço `http://localhost:5173/` no seu navegador favorito
 
 ## 📝 Licença
 
