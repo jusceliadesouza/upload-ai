@@ -14,21 +14,25 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Configurações iniciais
 - [x] UI do projeto
-- [ ] Backend do projeto
-<!-- 
-- [ ] Tarefa 4
-- [ ] Tarefa 5 
--->
+- [x] Backend do projeto
+- [ ] Finalização do projeto
 
 ## ☕ Usando upload.ai
 
-Para usar **upload.ai**, siga estas etapas:
+Para usar **upload.ai** web, siga estas etapas:
 
 1. Clone o projeto na sua máquina. `git clone https://github.com/jusceliadesouza/upload-ai.git`
 2. No terminal, utilize o comando `cd..` para voltar à raiz do projeto e redirecione para a pasta `web`
 3. Instale as dependências utilizando `pnpm install`
 4. Execute o projeto com `pnpm run dev`
 5. Abra o endereço `http://localhost:5173/` no seu navegador favorito
+
+Para usar o servidor, siga as seguintes etapas:
+
+1. No terminal, vá até a pasta `server` usando o comando `cd server`
+2. Instale as dependências do servidor utilizando `pnpm install`
+3. Rode o servidor com `pnpm run dev`
+4. Para acessar as informações no navegador, utilize o endereço `http://localhost:3333/`
 
 ## 📝 Licença
 
