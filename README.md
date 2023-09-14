@@ -6,7 +6,7 @@
 <!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jusceliadesouza/upload-ai?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jusceliadesouza/upload-ai?style=for-the-badge) -->
 
-![Imagem de um computador mostrando a página inicial do projeto](public/desktop.png)
+![Imagem de um computador mostrando a página inicial do projeto](web/public/desktop.png)
 
 ## Ajustes e melhorias
 
@@ -31,8 +31,9 @@ Para usar o servidor, siga as seguintes etapas:
 
 1. No terminal, vá até a pasta `server` usando o comando `cd server`
 2. Instale as dependências do servidor utilizando `pnpm install`
-3. Rode o servidor com `pnpm run dev`
-4. Para acessar as informações no navegador, utilize o endereço `http://localhost:3333/`
+3. Renomeie o arquivo `.env.example` para `.env` e preencha as variáveis de ambiente
+4. Rode o servidor com `pnpm run dev`
+5. Para acessar as informações no navegador, utilize o endereço `http://localhost:3333/`
 
 ## 📝 Licença
 
