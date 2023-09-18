@@ -1,14 +1,15 @@
 # upload-ai
+Gerador de títulos e descrições para vídeos
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jusceliadesouza/upload-ai?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jusceliadesouza/upload-ai?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/jusceliadesouza/upload-ai?style=for-the-badge)
+<!-- ![GitHub forks](https://img.shields.io/github/forks/jusceliadesouza/upload-ai?style=for-the-badge) -->
 <!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jusceliadesouza/upload-ai?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jusceliadesouza/upload-ai?style=for-the-badge) -->
 
-![Imagem de um computador mostrando a página inicial do projeto](github/social-preview.svg)
+![Imagem de uma astronauta, à esquerda. Logo abaixo, os dizeres 'Learning Artificial Intelligence - Come to the AI Side - NLW IA - Rocketseat'. Ao lado, um computador mostrando a página inicial do projeto](github/readme-preview.svg)
 
-Desenvolvido durante a NLW IA da Rocketseat. O **upload.ai** utiliza a inteligência artificial da OpenAI para gerar títulos e descrições a partir de um vídeo.
+Desenvolvido durante a NLW IA da [Rocketseat](https://rocketseat.com.br), o **upload.ai** utiliza a API da OpenAI para gerar títulos e descrições a partir de um vídeo escolhido pelo usuário. O vídeo, assim que enviado, é convertido para MP3 e, a partir daí, a aplicação transcreve o conteúdo do vídeo, enviando o resultado final para o usuário, de acordo com o prompt definido.
 
 ## Ajustes e melhorias
 
