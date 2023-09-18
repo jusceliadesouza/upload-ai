@@ -1,5 +1,4 @@
 # upload-ai
-Gerador de títulos e descrições para vídeos
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jusceliadesouza/upload-ai?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jusceliadesouza/upload-ai?style=for-the-badge)
