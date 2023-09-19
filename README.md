@@ -6,7 +6,7 @@
 <!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jusceliadesouza/upload-ai?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jusceliadesouza/upload-ai?style=for-the-badge) -->
 
-![Imagem de uma astronauta, à esquerda. Logo abaixo, os dizeres 'Learning Artificial Intelligence - Come to the AI Side - NLW IA - Rocketseat'. Ao lado, um computador mostrando a página inicial do projeto](github/readme-preview.svg)
+![Imagem de uma astronauta, à esquerda. Logo abaixo, os dizeres 'Learning Artificial Intelligence - Come to the AI Side - NLW IA - Rocketseat'. Ao lado, um computador mostrando a página inicial do projeto](github/readme-preview.png)
 
 Desenvolvido durante a NLW IA da [Rocketseat](https://rocketseat.com.br), o **upload.ai** utiliza a API da OpenAI para gerar títulos e descrições a partir de um vídeo escolhido pelo usuário. O vídeo, assim que enviado, é convertido para MP3 e, a partir daí, a aplicação transcreve o conteúdo do vídeo, enviando o resultado final para o usuário, de acordo com o prompt definido.
 
