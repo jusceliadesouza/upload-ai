@@ -46,7 +46,7 @@ Durante o evento, aprendemos a utilizar a API da OpenAI, a criar um servidor com
 
 ### Assista ao vídeo de apresentação do projeto
 
-[![Vídeo de apresentação do projeto](github/readme-preview.png)](github/nlw-ai.mp4)
+[![Vídeo de apresentação do projeto](github/readme-preview.png)](https://youtu.be/tcI3Z1-fzME)
 
 > Clique na imagem para assistir ao vídeo de apresentação do projeto.
 
